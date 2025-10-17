@@ -2,5 +2,4 @@ pandas
 scikit-learn
 seaborn
 matplotlib
-pickle5
 numpy
